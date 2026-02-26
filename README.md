@@ -111,6 +111,7 @@ Use the /frontend-design skill to create a responsive navigation bar.
 | [costanduse-insights](skills/costanduse-insights/) | Analyze Evolent PSA Cost & Use data, variance decomposition, driver classification, and monthly narrative generation |
 | [costanduse-reporting](skills/costanduse-reporting/) | Build and maintain Evolent PSA Cost & Use dashboards (Power BI and Streamlit) with metrics, DAX patterns, and data models |
 | [edw-auth-reporting](skills/edw-auth-reporting/) | Navigate EDW Auth reporting views, CIR tables, membership/eligibility, QPP scoring, and drug pricing |
+| [edw-cost-and-use](skills/edw-cost-and-use/) | EDW expert for Cost & Use oncology BI reporting — AllPayers claims/membership tables, per-client pipelines, VBI logic, and benchmarks |
 
 ### Enterprise & Communication
 | Skill | Description |
