@@ -105,6 +105,13 @@ Use the /frontend-design skill to create a responsive navigation bar.
 | [sql-code-review](skills/sql-code-review/) | SQL code review for security, performance, quality |
 | [sql-optimization](skills/sql-optimization/) | SQL query performance optimization across all databases |
 
+### Healthcare / EDW
+| Skill | Description |
+|-------|-------------|
+| [costanduse-insights](skills/costanduse-insights/) | Analyze Evolent PSA Cost & Use data, variance decomposition, driver classification, and monthly narrative generation |
+| [costanduse-reporting](skills/costanduse-reporting/) | Build and maintain Evolent PSA Cost & Use dashboards (Power BI and Streamlit) with metrics, DAX patterns, and data models |
+| [edw-auth-reporting](skills/edw-auth-reporting/) | Navigate EDW Auth reporting views, CIR tables, membership/eligibility, QPP scoring, and drug pricing |
+
 ### Enterprise & Communication
 | Skill | Description |
 |-------|-------------|
