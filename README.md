@@ -70,6 +70,7 @@ Use the /frontend-design skill to create a responsive navigation bar.
 | [algorithmic-art](skills/algorithmic-art/) | Create generative algorithmic art and creative coding projects |
 | [brand-guidelines](skills/brand-guidelines/) | Apply brand guidelines to designs and content |
 | [canvas-design](skills/canvas-design/) | Design canvas-based visual layouts and compositions |
+| [evolent-branding](skills/evolent-branding/) | Apply Evolent Health corporate brand system to presentations, documents, slides, and visual deliverables |
 | [frontend-design](skills/frontend-design/) | Create distinctive, production-grade frontend interfaces |
 | [slack-gif-creator](skills/slack-gif-creator/) | Create custom animated GIFs for Slack |
 | [theme-factory](skills/theme-factory/) | Generate cohesive design themes and style systems |
